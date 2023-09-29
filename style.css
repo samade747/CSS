@@ -1,0 +1,52 @@
+/* container */
+
+/* .container{
+    border: 10px solid green;
+
+}
+
+.container1{
+    border: 10px solid red;
+
+} */
+
+/* Grid  */
+
+.container{
+    border: 5px solid red;
+}
+
+/* .col{
+    min-height: 250px;
+    background-color: yellow
+} */
+
+.box1{
+    min-height: 300px;
+    background-color: yellow;
+    
+}
+
+.box2{
+    min-height: 300px;
+    background-color: red;
+    
+}
+
+.box3{
+    min-height: 300px;
+    background-color: pink;
+    
+}
+
+.box4{
+    min-height: 300px;
+    background-color: black;
+    
+}
+
+.box5{
+    min-height: 300px;
+    background-color: rgb(110, 96, 96);
+    
+}
